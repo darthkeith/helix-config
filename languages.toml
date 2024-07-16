@@ -1,0 +1,14 @@
+[[language]]
+name = "python"
+scope = "source.py"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "haskell"
+scope = "source.hs"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "toml"
+scope = "source.toml"
+indent = { tab-width = 4, unit = "    " }

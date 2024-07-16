@@ -1,0 +1,25 @@
+theme = "gruvbox_dark_soft"
+
+[editor]
+line-number = "relative"
+rulers = [80]
+color-modes = true
+
+[editor.whitespace.render]
+tab = "all"
+
+[editor.whitespace.characters]
+tab = "⇥"
+
+[editor.gutters]
+layout = ["line-numbers", "spacer"]
+
+[editor.gutters.line-numbers]
+min-width = 1
+
+[editor.soft-wrap]
+enable = true
+
+[keys.insert.k]
+j = "normal_mode"
+
