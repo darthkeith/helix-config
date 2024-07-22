@@ -1,11 +1,16 @@
 [[language]]
-name = "python"
-scope = "source.py"
+name = "haskell"
+scope = "source.hs"
 indent = { tab-width = 4, unit = "    " }
 
 [[language]]
-name = "haskell"
-scope = "source.hs"
+name = "purescript"
+scope = "source.purs"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
+name = "python"
+scope = "source.py"
 indent = { tab-width = 4, unit = "    " }
 
 [[language]]
