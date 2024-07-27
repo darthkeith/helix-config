@@ -4,6 +4,11 @@ scope = "source.hs"
 indent = { tab-width = 4, unit = "    " }
 
 [[language]]
+name = "javascript"
+scope = "source.js"
+indent = { tab-width = 4, unit = "    " }
+
+[[language]]
 name = "purescript"
 scope = "source.purs"
 indent = { tab-width = 4, unit = "    " }
